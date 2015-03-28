@@ -1,0 +1,15 @@
+[submodule "maven-indexer"]
+	path = maven-indexer
+	url = https://github.com/windup/maven-indexer.git
+[submodule "nexus-repository-indexer"]
+	path = nexus-repository-indexer
+	url = https://github.com/windup/nexus-repository-indexer.git
+[submodule "windup"]
+	path = windup
+	url = https://github.com/windup/windup.git
+[submodule "windup-rulesets"]
+	path = windup-rulesets
+	url = https://github.com/windup/windup-rulesets.git
+[submodule "windup-quickstarts"]
+	path = windup-quickstarts
+	url = https://github.com/windup/windup-quickstarts.git
