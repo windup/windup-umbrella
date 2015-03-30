@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <name>Windup Umbrella</name>
-    <description>Git repo with git submodules for all that is needed to build Windup.</description>
+    <description>Git repo with git submodules for all that is needed to build Windup. Use as read-only.</description>
 
     <properties>
         <windup.scm.connection>scm:git:https://github.com/windup/windup-umbrella.git</windup.scm.connection>
@@ -33,6 +33,7 @@
         <module>maven-indexer</module>
         <module>nexus-repository-indexer</module>
         <module>windup</module>
+        <module>windup-distribution</module>
         <module>windup-rulesets</module>
         <module>windup-quickstarts</module>
     </modules>

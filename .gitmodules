@@ -13,3 +13,6 @@
 [submodule "windup-quickstarts"]
 	path = windup-quickstarts
 	url = https://github.com/windup/windup-quickstarts.git
+[submodule "windup-distribution"]
+	path = windup-distribution
+	url = https://github.com/windup/windup-distribution.git
