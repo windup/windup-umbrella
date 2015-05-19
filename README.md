@@ -8,6 +8,7 @@ You have been warned :)
 To update to latest master branches of the submodules, do:
 
 ```
+git submodules init
 git submodules update
 git checkout master
 ```
